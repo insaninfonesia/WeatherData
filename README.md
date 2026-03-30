@@ -3,8 +3,9 @@ Weather Data Set from Colabs Project
 
 <b>Dataset Description</b>
 
-<b>Weather Data</b> is a collection of environmental condition records gathered from a monitoring point located in Balai Silvofishery Maros Regency, South Sulawesi. The dataset includes key weather parameters such as temperature, humidity, rainfall, light intensity, wind speed, and other atmospheric indicators.
-This dataset helps researcher observe daily weather changes, analyze local climate patterns, and support research, planning, or environmental modeling in the area.
+<b>Weather Data</b> is a collection of environmental condition records gathered from a monitoring point located in Balai Silvofishery Maros Regency, South Sulawesi Province and Pulo Aceh, Aceh Besar Regency, Aceh Province. The dataset includes key weather parameters such as temperature, humidity, rainfall, light intensity, wind speed, and other atmospheric indicators. This dataset helps researcher observe daily weather changes, analyze local climate patterns, and support research, planning, or environmental modeling in the area.
+
+The data collected from Pulo Aceh is incomplete due to limitations in data transmission, such as frequent power outages and very limited internet access. Environmental conditions in Indonesia’s outermost regions present unique challenges for the transmission and reception of data from installed sensors. Additionally, sensors located in open sea areas face further difficulties, including natural interference (such as sea vapor and high salinity) as well as disturbances from marine life.
 
 <b>Licensing Information</b>
 
